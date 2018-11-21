@@ -1,6 +1,6 @@
 The Odin Project: Web Development 101 
 
-[curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
+[Curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
 
 <a href="https://codepen.io/JajwalyaRK/pen/yxMqbE">Demo</a>
 
